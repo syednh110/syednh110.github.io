@@ -34,7 +34,8 @@ p {
 }
 .wrapper {
   background: #4B6A78;
-  max-width: 960px;
+  max-width: 1200px;
+  max-height: 50000px;
   margin: 0 auto;
   position: relative;
   -webkit-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
