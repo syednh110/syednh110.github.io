@@ -1,0 +1,70 @@
+﻿
+Syed Namdar Hussain
++91-8987279252/7667153169
+B.Tech-Computer  Science and Engineering
+syednh110@gmail.com 
+
+Education
+Degree/Certificate
+Institute/Board
+CGPA/Percentage
+Year
+B.Tech
+Techno India Salt Lake
+7.6
+2014-18
+Class XII(Math)
+MRSM College
+71%
+2013
+Class X
+Kendriya Vidyalaya
+9.2
+2011
+
+Experience
+    • Software Engineer at Piro Technologies Pvt Ltd
+Developed and maintain a modern intelligence web application which is developed on Python and Django
+June 2018 - August 2018
+https://www.pirotechnologies.com
+    • Tata Consultancy Services(TCS)
+Working with Huntington Bank client as Middleware Developer
+Oct 2018 - Ongoing 
+
+Projects
+    • Monitoring Cardiac Patient Using Smartphone.                                                 Aug 2017-May 2018
+             Mentor name:Supratim Ghosh(Assistant Professor at Techno India) 
+      We took more than 300 patient labelled data.We use to trained with 14 attributes.We also add one
+      feature to take thalach( maximum heart rate achieved) data using mobile sensor.
+      Six classifiers were used for best accuracy prediction. And we succeed with 72% accuracy.
+                Tools & Technology Used:Python,PHP,ML,Scikit-learn, NumPy, Pandas.
+    • Analyze Paytm wallet                                                                      
+       Python script which analyses the debit, credit, cashback of paytm wallet and also visualizes the result using pandas and matplotlib
+    • Basic Media Player Application - Finishing School Program (TISL)
+              Mentor name:Mr Asif Mollah(Android Developer at InGreens)
+      We designed a mobile application to play online media. We fetched the data using Volley library. A simple UI was designed to play, pause, next, previous and stop the media.
+    • News Media Analysis    
+              Mentor name: Dr. Asif Iqbal(CEO at Piro technology Pvt Ltd)                                                                  
+Scrap news headline from news sources and developed a classifier to categorize the content.
+Show the visualization of Analysis using charts on React Framework and developed rating
+system.
+Technology Used: Python, Django, React JS, NLP, AWS, Rest Framework
+
+Technical Skills
+    • Proficiency in Data Structure and Algorithm 
+    • Programming languages: Java, C, CPP
+    • Web technologies: Bootstrap,HTML, CSS
+    • Database : SQL 
+    • Operating system : Windows, Linux
+    • Others: ESQL,pandas,nltk,IIBv10,ML
+
+Achievements
+    • Math Olympiad 2010 : Achieved AIR 29th rank
+
+Links
+    • GitHub: https://github.com/syednh110
+    • HackerRank:https://www.hackerrank.com/nh1
+      10hacker
+    • InterviewBit:https://www.interviewbit.com/profile/syednamdarhussain
+    • Linkedin:https://www.linkedin.com/in/ali-namdar/
+
